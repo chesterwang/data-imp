@@ -1,0 +1,131 @@
+Configuration file: /home/chester/gitlab.wangtongpeng.com/data-imp/_config.yml
+            Source: /home/chester/gitlab.wangtongpeng.com/data-imp
+       Destination: /home/chester/gitlab.wangtongpeng.com/data-imp/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.69 seconds.
+ Auto-regeneration: enabled for '/home/chester/gitlab.wangtongpeng.com/data-imp'
+Configuration file: /home/chester/gitlab.wangtongpeng.com/data-imp/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:21 ...done in 0.197273262 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:32 ...done in 0.187015781 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:41 ...done in 0.197689758 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:44 ...done in 0.194676398 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:44 ...done in 0.199102159 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:45 ...done in 0.208207945 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:47 ...done in 0.200403705 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:48 ...done in 0.212916753 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:49 ...done in 0.204121203 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:33:57 ...done in 0.197380473 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:34:05 ...done in 0.210085002 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:34:14 ...done in 0.195003499 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:34:23 ...done in 0.188845353 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:34:24 ...done in 0.21675289 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:34:33 ...done in 0.294187259 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:17 ...done in 0.240684141 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:17 ...done in 0.234110526 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:18 ...done in 0.211818738 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:19 ...done in 0.210321111 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:19 ...done in 0.207560488 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:21 ...done in 0.209573977 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:21 ...done in 0.256955322 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:35:56 ...done in 0.174173755 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:36:01 ...done in 0.215715538 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:40:18 ...done in 0.179784235 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:40:18 ...done in 0.185209824 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:40:19 ...done in 0.190477734 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:40:57 ...done in 0.237298085 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:42:10 ...done in 0.172843692 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:42:12 ...done in 0.186470109 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:42:14 ...done in 0.195513662 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:42:14 ...done in 0.207179029 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:42:15 ...done in 0.207761235 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:43:30 ...done in 0.176574218 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:44:42 ...done in 0.173603175 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:44:43 ...done in 0.222837935 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:45:42 ...done in 0.168205316 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:45:43 ...done in 0.226120686 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:45:58 ...done in 0.16893279 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:45:59 ...done in 0.267401503 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:46:05 ...done in 0.187926551 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:46:27 ...done in 0.210402659 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:46:57 ...done in 0.173921567 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:46:58 ...done in 0.237738648 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:47:10 ...done in 0.173033779 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:47:26 ...done in 0.22134307 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:47:52 ...done in 0.187240231 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:47:52 ...done in 0.171325389 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:51:49 ...done in 0.811695837 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:59:00 ...done in 0.495483358 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 09:59:13 ...done in 0.388026076 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:00:06 ...done in 0.206225967 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:01:46 ...done in 0.182131821 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:03:32 ...done in 0.194672712 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:05:56 ...done in 0.237574289 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:40:39 ...done in 0.232980889 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-25 10:40:40 ...done in 0.189190329 seconds.
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+SignalException: SIGTERM
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:155:in `join'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:155:in `boot_or_detach'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:51:in `process'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:35:in `block (2 levels) in init_with_program'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `call'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/bin/jekyll:13:in `<top (required)>'
+  /usr/local/bin/jekyll:22:in `load'
+  /usr/local/bin/jekyll:22:in `<top (required)>'
+Configuration file: /home/chester/gitlab.wangtongpeng.com/data-imp/_config.yml
+            Source: /home/chester/gitlab.wangtongpeng.com/data-imp
+       Destination: /home/chester/gitlab.wangtongpeng.com/data-imp/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.769 seconds.
+ Auto-regeneration: enabled for '/home/chester/gitlab.wangtongpeng.com/data-imp'
+Configuration file: /home/chester/gitlab.wangtongpeng.com/data-imp/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:25:37 ...done in 0.201139973 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:25:50 ...done in 0.191400613 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:25:57 ...done in 0.209542945 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:25:57 ...done in 0.192725542 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:26:02 ...done in 0.196668502 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:26:04 ...done in 0.213612436 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:26:10 ...done in 0.218486219 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:26:20 ...done in 0.21197651 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:26:34 ...done in 0.250154724 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:27:15 ...done in 0.221387794 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:27:15 ...done in 0.202679682 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:27:31 ...done in 0.218100733 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:27:46 ...done in 0.209941795 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:07 ...done in 0.22868125 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:37 ...done in 0.265032875 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:42 ...done in 0.236095419 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:43 ...done in 0.304036764 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:50 ...done in 0.269315766 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:53 ...done in 0.203578384 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:53 ...done in 0.202714541 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:28:54 ...done in 0.232063284 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:29:15 ...done in 0.209229327 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:29:19 ...done in 0.212440077 seconds.
+      Regenerating: 1 file(s) changed at 2016-07-27 15:29:38 ...done in 0.310787939 seconds.
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+SignalException: SIGTERM
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:155:in `join'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:155:in `boot_or_detach'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:51:in `process'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/lib/jekyll/commands/serve.rb:35:in `block (2 levels) in init_with_program'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `call'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+  /var/lib/gems/2.1.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+  /var/lib/gems/2.1.0/gems/jekyll-3.1.6/bin/jekyll:13:in `<top (required)>'
+  /usr/local/bin/jekyll:22:in `load'
+  /usr/local/bin/jekyll:22:in `<top (required)>'
