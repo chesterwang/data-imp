@@ -17,6 +17,7 @@ defaults:
       title: dbyll
 
 description: Stylish Jekyll Theme
+disqus: dbyll-ghost # add disqus short name here
 author:
   name: dbyll
   email: dbyll@ismaildemirbilek.com
@@ -31,6 +32,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+<<<<<<< HEAD
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
@@ -38,3 +40,6 @@ BASE_PATH:
 
 gems:
   - jekyll-paginate
+=======
+BASE_PATH: http://dbtek.github.io/dbyll
+>>>>>>> 1acb43dadee57504e610c5435475e2a91ceff1fa
