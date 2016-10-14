@@ -15,6 +15,13 @@ comments: true
     
     clickthrough rate decay curve
 
+
+$$a^3$$
+
+
+
+$$a_3$$
+
 ```
 ```
 
