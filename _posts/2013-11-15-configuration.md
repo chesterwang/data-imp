@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuration
+title: dbyll基本配置选项
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: false
